@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#student-list {
+    margin-top: 20px;
+}
+
+.student-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+}
